@@ -1,6 +1,6 @@
 {
   "name": "ninjsbook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ninjsbook/local-client": "^1.0.0"
+    "@ninjsbook/local-client": "^1.0.1"
   },
   "devDependencies": {
-    "@ninjsbook/local-api": "^1.0.0",
+    "@ninjsbook/local-api": "^1.0.1",
     "@types/node": "^20.5.6",
     "commander": "^11.0.0",
     "esbuild": "0.8.26",
